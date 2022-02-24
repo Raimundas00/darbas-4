@@ -1,0 +1,44 @@
+
+.red{
+    
+    background-color: rgb(255, 00, 00);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 5px;
+    border-top: 1px solid black;
+}
+.green{
+    background-color: rgb(00, 128, 00);
+    text-align: center;
+    color: white;
+    padding: 20px;  
+    margin-bottom: 5px;
+}
+.blue{
+    background-color: rgb(00, 00, 225);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 5px;  
+}
+.purple{
+    background-color: rgb(128, 00, 128);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 5px;  
+}
+.chocolate{
+    background-color: rgb(210, 105, 30);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.midnightblue{
+    background-color: rgb(25, 25, 112);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 5px
